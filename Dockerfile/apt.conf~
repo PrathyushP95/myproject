@@ -1,0 +1,3 @@
+Acquire::ftp::proxy "ftp://pr325431:Sentry123@10.201.51.71:8080/";
+Acquire::http::proxy "http://pr325431:Sentry123@10.201.51.71:8080/";
+Acquire::https::proxy "https://pr325431:Sentry123@10.201.51.71:8080/";
